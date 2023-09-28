@@ -1,0 +1,12 @@
+-> Array
+  -> Estático - Tamanho fixo
+  -> Homogênio - Se criar um array int, todos os dados obrigatoriamente devem ser inteiros.
+  -> Estrutura indexada - inicia sempre em 0
+  -> Array é um objeto
+
+Ex:
+  int[] a = new int[6];
+  a[3] = 10;
+  a[0] = 8;
+  System.out.print(a[5]);
+
