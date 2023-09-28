@@ -10,3 +10,28 @@ Ex:
   a[0] = 8;
   System.out.print(a[5]);
 
+-> Collections
+  -> Set
+    -> Não ordenado (por padrão)
+    -> Não indexado
+    -> Não aceita repetição
+  -> List
+    -> indexada
+    -> Aceita repetição
+  -> Map
+    -> Chave/Valor
+    -> Chave não aceita repetição
+    -> Valor aceita repetição
+  -> Queue
+    -> Implementa fila
+    -> First in/ First out (Fifo)
+  -> Stack
+    -> Implemeta pilha (stack)
+    -> Last in / First out (lifo)
+
+-> Set
+  -> Pode ser Heterogênio
+  -> Pode ser Homogênio
+  -> Não aceita objetos duplicados
+  -> Pode ser ordenado
+  -> Não é indexado
