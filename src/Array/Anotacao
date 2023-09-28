@@ -35,3 +35,10 @@ Ex:
   -> Não aceita objetos duplicados
   -> Pode ser ordenado
   -> Não é indexado
+
+-> List
+  -> Pode ser Heterogênio
+  -> Pode ser Homogênio
+  -> Aceita objetos duplicados
+  -> É ordenado
+  -> É indexado
